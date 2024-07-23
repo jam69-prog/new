@@ -1,0 +1,81 @@
+.father{
+    width: 1000px;
+    height: 600px;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.box{
+    width: 230px;
+    height: 300px;
+    border: 2px solid green;
+    transition: .5s;
+}
+
+.box:hover{
+    box-shadow: 2px 2px 20px green;
+    transition: .5s;
+}
+
+
+.father1{
+    width: 1000px;
+    height: 600px;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.box1{
+    width: 230px;
+    height: 300px;
+    border: 2px solid green;
+    transition: .5s;
+}
+
+.box1:hover{
+    box-shadow: 2px 2px 20px green;
+    transition: .5s;
+}
+
+.merc-image{
+    width: 100%;
+}
+
+.father2{
+    width: 1000px;
+    height: 600px;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.box2{
+    width: 230px;
+    height: 300px;
+    border: 2px solid green;
+    transition: .5s;
+}
+
+.box2:hover{
+    box-shadow: 2px 2px 20px green;
+    transition: .5s;
+}
+
+.merc-image2{
+    width: 100%;
+}
+
+.text-group{
+    padding: 0 10px 0 10px ;
+}
